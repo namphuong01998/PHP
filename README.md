@@ -5,11 +5,4 @@
 Và khi người dùng nhấn nút Confirm thì ta vào trang Chào Mừng.
 __________________________________________________________________________________
 
-- Tao lưu mỗi tài khoản dưới dạng object Account(email,password).
-- Đẩy tất cả tài khoản vào 1 mảng array, mà mỗi phần tử của nó là 1 object Account.
-
-VẤN ĐỀ:
-Tao muốn in ra thử cái mảng array (line 48 - 53). Nhưng nó báo error:
-
-Fatal error: Uncaught Error: Object of class Account could not be converted to string in C:\Users\Admin\Downloads\PHP\htdocs\WORKPLACE\Lab02\index.php:50 Stack trace: #0 {main} thrown in C:\Users\Admin\Downloads\PHP\htdocs\WORKPLACE\Lab02\index.php on line 50
 
